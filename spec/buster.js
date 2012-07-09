@@ -1,7 +1,7 @@
 var config = module.exports;
 
 config["My tests"] = {
-	"deps": ["lib/object.js", "lib/buster-extend.js"],
+	"deps": ["lib/object.js"],
 
 	"environment": "browser",
 	"rootPath": "..",
